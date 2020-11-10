@@ -1,0 +1,15 @@
+{
+    "name": "swissup/search-mysql-legacy",
+    "description": "Legacy Mysql Search for 2.4",
+    "keywords": [
+        "mysql",
+        "search", 
+        "legacy"
+    ],
+    "type": "metapackage",
+    "version": "1.0.0",
+    "license": "OSL-3.0",
+    "require": {
+        "swissup/module-search-mysql-legacy": "^1.0.0"
+    }
+}
