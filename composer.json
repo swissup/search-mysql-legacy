@@ -7,9 +7,9 @@
         "legacy"
     ],
     "type": "metapackage",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "license": "OSL-3.0",
     "require": {
-        "swissup/module-search-mysql-legacy": "^1.0.2"
+        "swissup/module-search-mysql-legacy": "^1.0.3"
     }
 }
